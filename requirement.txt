@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pyscipopt
+scipy
+scikit-learn
+pandas
+plotly
+seaborn
+warnings
